@@ -2,14 +2,8 @@
 	"name": "Argon",
 	"tree": {
 		"$className": "DataModel",
-		"Chat": {
-			"$path": "src/Chat"
-		},
 		"Lighting": {
 			"$path": "src/Lighting"
-		},
-		"LocalizationService": {
-			"$path": "src/LocalizationService"
 		},
 		"ReplicatedFirst": {
 			"$path": "src/ReplicatedFirst"
@@ -29,9 +23,6 @@
 		"StarterGui": {
 			"$path": "src/StarterGui"
 		},
-		"StarterPack": {
-			"$path": "src/StarterPack"
-		},
 		"StarterPlayer": {
 			"StarterCharacterScripts": {
 				"$path": "src/StarterPlayer/StarterCharacterScripts"
@@ -42,9 +33,6 @@
 		},
 		"Teams": {
 			"$path": "src/Teams"
-		},
-		"TestService": {
-			"$path": "src/TestService"
 		},
 		"Workspace": {
 			"$path": "src/Workspace"
